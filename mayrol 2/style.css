@@ -276,20 +276,41 @@ footer {
 }
 
 /* MOBILE */
+/* MOBILE */
 @media(max-width:768px){
     .header {
-        flex-direction: column;
-        text-align: center;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 15px;
     }
 
     nav {
-        margin-top: 10px;
+        margin-top: 0;
+    }
+
+    nav a {
+        margin-left: 8px;
+        font-size: 0.75rem;
+    }
+
+    .home-btn {
+        margin-left: 8px;
+        font-size: 11px;
+        padding: 6px 8px;
+    }
+
+    .logoii {
+        width: 110px;
+        height: auto;
+        position: static;
+        left: 0;
     }
 
     .section {
         padding: 40px 20px;
     }
-
+}
     .logoii {
         width: 220px;
         left: 0;
