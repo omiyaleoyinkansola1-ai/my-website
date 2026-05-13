@@ -297,7 +297,7 @@ footer {
         width: 260px;
     height: auto !important;
     position: static !important;
-    left: 0 !important;
+    left: -50px!important;
     margin: 0 !important;
     }
 
