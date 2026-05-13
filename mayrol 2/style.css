@@ -36,7 +36,7 @@ body {
 
 /* LOGO IMAGE ONLY */
 .logoii {
-    width: 400px;
+    width: 500px;
     height: auto;
     position: relative;
     left: -140px;
@@ -52,7 +52,7 @@ nav a {
     font-size: 0.95rem;
     transition: 0.2s;
     margin-left: 6px;
-    font-size: 0.7rem
+    font-size: 0.1rem
 }
 
 nav a:hover {
@@ -294,7 +294,7 @@ footer {
     }
 
     .logoii {
-        width: 200px;
+        width: 260px;
         height: auto;
         position: static;
         margin: 0;
@@ -310,7 +310,7 @@ footer {
 
     nav a {
         margin: 0 0 5px 0;
-        font-size: 0.85rem;
+        font-size: 0.1rem;
     }
 
     .home-btn {
