@@ -51,6 +51,8 @@ nav a {
     font-weight: 500;
     font-size: 0.95rem;
     transition: 0.2s;
+    margin-left: 6px;
+    font-size: 0.7rem
 }
 
 nav a:hover {
