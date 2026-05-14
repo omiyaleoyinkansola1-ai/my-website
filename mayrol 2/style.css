@@ -294,11 +294,11 @@ footer {
     }
 
     .logoii {
-        width: 260px;
+        width: 160px !important;
     height: auto !important;
-    position: static !important;
-    left: -50px!important;
-    margin: 0 !important;
+    position: relative !important;
+    left: -55px !important;
+    margin: 0 !important; 
     }
 
     nav {
